@@ -6,7 +6,7 @@ Curso React Native: Desenvolva APPs Nativas para Android e iOS
 https://www.udemy.com/course/curso-react-native/
 
 <div align="left">
-    <img src="https://img.shields.io/badge/-React Native-blue?style=for-the-badge" alt="React Native">
+    <img src="https://img.shields.io/badge/-React Native-deepskyblue?style=for-the-badge" alt="React Native">
 </div>
 
 ## Contato
