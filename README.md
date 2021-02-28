@@ -3,12 +3,12 @@
 ```sh
 Curso React Native: Desenvolva APPs Nativas para Android e iOS
 ```
-https://www.udemy.com/course/curso-react-native/
-
 <div align="left">
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
     <img src="https://img.shields.io/badge/-React Native-deepskyblue?style=for-the-badge" alt="React Native">
 </div>
+
+https://www.udemy.com/course/curso-react-native/
 
 ## Contato
 
