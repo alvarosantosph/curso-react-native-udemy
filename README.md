@@ -3,6 +3,10 @@ Curso React Native: Desenvolva APPs Nativas para Android e iOS
 
 https://www.udemy.com/course/curso-react-native/
 
+<div align="left">
+    <img src="https://img.shields.io/badge/-Delphi-DeepSkyBlue?style=for-the-badge" alt="React Native">
+</div>
+
 ## Contato
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
